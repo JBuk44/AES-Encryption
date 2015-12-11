@@ -3,6 +3,6 @@
 This repository is used for the implementation of AES encryption/decryption on an Altera DE2-115 FPGA platform.
 
 ECE 287 Miami University Final Project
-https://github.com/JBuk44/AES-Encryption/wiki/AES-Project-Desription
+https://github.com/JBuk44/AES-Encryption/wiki/AES-on-an-FPGA-using-Verilog-HDL
 
 Be sure to follow the Wiki to our Calculation pages to understand how our AES encryption works. Note** There are errors in a mix column operation.
