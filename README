@@ -1,4 +1,4 @@
- AES-Encryption
+ AES-Encryption/Decryption
 
 This repository is used for the implementation of AES encryption/decryption on an Altera DE2-115 FPGA platform.
 
